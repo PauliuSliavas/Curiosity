@@ -17,15 +17,15 @@ PARTS FOR Curiosity 0.1:
 Arduino NANO IoT - main board\
 LSM6DS3 - 3-axis accelerometer inside NANO 33 IoT\
 BMP180 - Barometer + elevation (detailed explanation inside /Sensors/bmp180_infosheet_LT.pdf + usefull info inside /Sensors/BMP180.txt)\
-SD Card module - for data colection 
-\
+SD Card module - for data colection
+
 MAIN ROCKET PARTS:
 
 Carton board: 
 
 h = 600mm\
 r = 63mm(outside)\
-r = 60mm(inside)\
+r = 60mm(inside)
 
 PLA PRINTED PART:
 
