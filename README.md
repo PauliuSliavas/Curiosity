@@ -14,11 +14,11 @@ Will put exact electronics parts list latter on..
 
 PARTS FOR Curiosity 0.1:
 
-Arduino NANO IoT - main board
+Arduino NANO IoT - main board\
 LSM6DS3 - 3-axis accelerometer inside NANO 33 IoT\
 BMP180 - Barometer + elevation (detailed explanation inside /Sensors/bmp180_infosheet_LT.pdf + usefull info inside /Sensors/BMP180.txt)\
 SD Card module - for data colection 
-
+\
 MAIN ROCKET PARTS:
 
 Carton board: 
