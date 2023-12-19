@@ -1,0 +1,8 @@
+#################################################
+LSM6DS3 - 3-axis accelerometer inside NANO 33 IoT
+#################################################
+
+- https://docs.arduino.cc/tutorials/nano-33-iot/imu-accelerometer - Basic info about sensor and usage.
+
+
+
